@@ -1,0 +1,11 @@
+C:\Users\шгп\source\repos\rehcfx\rehcfx\bin\Debug\rehcfx.exe.config
+C:\Users\шгп\source\repos\rehcfx\rehcfx\bin\Debug\rehcfx.exe
+C:\Users\шгп\source\repos\rehcfx\rehcfx\bin\Debug\rehcfx.pdb
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.csprojAssemblyReference.cache
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.Form1.resources
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.Properties.Resources.resources
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.csproj.GenerateResource.cache
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.csproj.CoreCompileInputs.cache
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.exe
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.pdb
+C:\Users\шгп\source\repos\rehcfx\rehcfx\obj\Debug\rehcfx.Form2.resources
